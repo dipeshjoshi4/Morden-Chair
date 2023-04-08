@@ -9,3 +9,9 @@ this is one shopping cart page which is enhance your background and gives the be
 
 **Version control system**: Git and Github.
 
+
+# Replicate the Following Output
+
+`Assests are Provided!`
+
+![Project 6](./Data%20Analytics%20Landing%20page.png)
