@@ -14,4 +14,4 @@ this is one shopping cart page which is enhance your background and gives the be
 
 `Assests are Provided!`
 
-![Project 6](./Data%20Analytics%20Landing%20page.png)
+![Morden Chair](./1.png)
