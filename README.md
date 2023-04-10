@@ -10,6 +10,9 @@ this is one shopping cart page which is enhance your background and gives the be
 **Version control system**: Git and Github.
 
 
+## 🔗 Live Link
+ [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]()
+
 # Replicate the Following Output
 
 `Assests are Provided!`
