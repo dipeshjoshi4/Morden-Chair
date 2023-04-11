@@ -1,6 +1,6 @@
 # Morden-Chair
-this is one shopping cart page which is enhance your background and gives the best quality products 
-we can say its beutifull design .given right solution with good features and provide good user experience to client
+- this is one shopping cart page which is enhance your background and gives the best quality products 
+- we can say its beutifull design .given right solution with good features and provide good user experience to client
 
  ## 🔗 Tech Stack
 
